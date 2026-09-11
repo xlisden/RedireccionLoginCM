@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RedireccionLogin</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="username_default">admin</string>
+    <string name="password_default">123456</string>
+    <string name="log_out">Log out</string>
+</resources>
